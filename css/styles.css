@@ -1,0 +1,62 @@
+body {
+  background-color: #f5f5f5;
+  color: #757575;
+}
+/* osnovnoy cvet #FFFFFF*/
+/* vtorichniy cvet #757575*/
+/* bleck # 212121*/
+/* beliy #FFFFFF*/
+/* siniy #2196F3*/
+
+.site-nav .link {
+  color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+
+.section-title {
+  color: #212121;
+}
+
+.span1 {
+  color: #2196f3;
+}
+.logo {
+  color: #000000;
+}
+
+.auto-nav .link {
+  color: #757575;
+}
+
+.auto-nav .link:hover,
+.auto-nav .link:focus {
+  color: #2196f3;
+}
+
+footer {
+  background-color: #212121;
+}
+
+.adr {
+  color: #ffffff;
+}
+.foot .adr:hover,
+.foot .adr:focus {
+  color: #2196f3;
+}
+
+.kont {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.foot .kont:hover,
+.foot .kont:focus {
+  color: #2196f3;
+}
+
+.logos {
+    color: #FFF;
+}
